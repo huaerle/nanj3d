@@ -1,85 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-</plist>http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 
-</plist>
+<plist version="1.0">
 
-</plist>
+<dict>
 
-</plist>
+<key>items</key>
 
-</plist>
+<array>
 
-</plist>
+<dict>
 
-</plist>
+<key>assets</key>
 
-</plist>
+<array>
 
-</plist>
+<dict>
 
-</plist>
+<key>kind</key>
 
-</plist>
+<string>software-package</string>
 
-</plist>
+<key>url</key>
 
-</plist>
+<string>http://downnanj.fly2014.com/ios/nanj.ipa</string>
 
-</plist>
+</dict>
 
-</plist>
+<dict>
 
-</plist>
+<key>kind</key>
 
-</plist>
+<string>display-image</string>
 
-</plist>
+<key>url</key>
 
-</plist>
+<string>http://downnanj.fly2014.com/image/log57_57.png</string>
 
-</plist>
+</dict>
 
-</plist>
+<dict>
 
-</plist>
+<key>kind</key>
 
-</plist>
+<string>full-size-image</string>
 
-</plist>
+<key>url</key>
 
-</plist>
+<string>http://downnanj.fly2014.com/image/log512_512.png</string>
 
-</plist>
+</dict>
 
-</plist>
+</array>
 
-</plist>
+<key>metadata</key>
 
-</plist>
+<dict>
 
-</plist>
+<key>bundle-identifier</key>
 
-</plist>
+<string>com.hyhd.test.nanj3d</string>
 
-</plist>
+<key>bundle-version</key>
 
-</plist>
+<string>1.0.92</string>
 
-</plist>
+<key>kind</key>
 
-</plist>
+<string>software</string>
 
-</plist>
+<key>title</key>
 
-</plist>
+<string>南京麻将九五至尊</string>
 
-</plist>
+</dict>
 
-</plist>
+</dict>
 
-</plist>
+</array>
 
-</plist>
+</dict>
 
 </plist>
